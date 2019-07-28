@@ -9,5 +9,7 @@ By complying anylang your microservice implementation would be a set of defined 
 
 # Canonical Service Definition
 
+We are using [protocol buffers](https://developers.google.com/protocol-buffers/) as the service definition language.
+
 
 # Implementations
